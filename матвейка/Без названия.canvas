@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fc27ee04a0efe086","type":"file","file":"матвейка/До 1000 см³.md","x":-1400,"y":-1120,"width":560,"height":340},
+		{"id":"856d8c2ffaf27747","x":-1400,"y":-720,"width":560,"height":540,"type":"file","file":"матвейка/1000–2000 см³.md"},
+		{"id":"9014b8c18c372c33","type":"file","file":"матвейка/2000–3000 см³.md","x":-1400,"y":-120,"width":560,"height":580},
+		{"id":"752a9e6eda9589f3","x":-563,"y":-880,"width":603,"height":541,"type":"text","text":""}
+	],
+	"edges":[]
+}

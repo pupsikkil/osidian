@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b92bf1351b7ef4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75ddca9ef44cc43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d88ba46687898ddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc0be781f9b1572b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb98d81a50f8c582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c6eb5ea2878047",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1cf2bc1d4f788fe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1d431f714d716de1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f5ed7b95662002d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3573b4b2d7da29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a996a1be1ab34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "taobao Документация/Taobao_API_UltraNote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Taobao_API_UltraNote"
+            }
+          },
+          {
+            "id": "741b201795683f93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "taobao Документация/Taobao_API_UltraNote.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Taobao_API_UltraNote"
+            }
+          },
+          {
+            "id": "9b51f768ada1fe8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5329129d89115401",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "taobao Документация/Taobao_API_UltraNote.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Taobao_API_UltraNote"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "d88ba46687898ddf",
+  "lastOpenFiles": [
+    "матвейка/2000–3000 см³.md",
+    "матвейка/MORe car msk.md",
+    "матвейка/Без названия.canvas",
+    "матвейка/тачки До 1500 см³.md",
+    "матвейка/До 1000 см³.md",
+    "матвейка/1000–2000 см³.md",
+    "матвейка/утиль.md",
+    "8edf58b1_1758103986 1.jpg",
+    "8edf58b1_1758103986.jpg",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "матвейка",
+    "TaoBao/Generate access_token.md",
+    "Без названия.base",
+    "TaoBao/index.md",
+    "TaoBao/taoworld_api_docs_readme.md",
+    "TaoBao/api_min.md",
+    "TaoBao/api_handbook.md",
+    "книги/Think_and_Grow_Rich_Obsidian_Summary.md",
+    "TaoBao/Навигация.md",
+    "TaoBao/AccessToken.md",
+    "книги/Think_and_Grow_Rich_Obsidian.md",
+    "TaoBao/QueryProductsDetails.md",
+    "книги",
+    "Новая папка",
+    "TaoBao/QueryPromotion.md",
+    "TaoBao/BatchGetProductLogisticPrice.md",
+    "TaoBao/AccountToken.md",
+    "taobao Документация/Taobao_API_UltraNote.md",
+    "TaoBao",
+    "taobao Документация/Без названия.base",
+    "Без названия.md",
+    "работа/Без названия.canvas",
+    "taobao Документация/документация тао бао .md",
+    "taobao Документация/Taobao_API_Documentation.md",
+    "Без названия 1",
+    "Без названия/Без названия.md",
+    "Без названия/Без названия.base",
+    "TaoBao/QueryProductSpuList.md",
+    "работа",
+    "taobao Документация"
+  ]
+}

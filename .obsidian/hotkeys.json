@@ -1,0 +1,18 @@
+{
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "chatgpt-md:select-model-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}

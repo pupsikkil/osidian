@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"81d2baf327f9acc0","x":-600,"y":-440,"width":400,"height":400,"type":"file","file":"TaoBao/Навигация.md"},
+		{"id":"9a2d2bdfe8ab9521","x":-514,"y":125,"width":250,"height":60,"type":"text","text":"выполенро"},
+		{"id":"f78d854b8123eb41","x":5,"y":-93,"width":400,"height":400,"type":"file","file":"TaoBao/AccessToken.md"}
+	],
+	"edges":[
+		{"id":"c0e36a5cbe86ba10","fromNode":"81d2baf327f9acc0","fromSide":"bottom","toNode":"9a2d2bdfe8ab9521","toSide":"top"},
+		{"id":"277a0c2cf28a661a","fromNode":"9a2d2bdfe8ab9521","fromSide":"right","toNode":"f78d854b8123eb41","toSide":"left"},
+		{"id":"c8a72a834b0dafb7","fromNode":"f78d854b8123eb41","fromSide":"top","toNode":"81d2baf327f9acc0","toSide":"right"}
+	]
+}
